@@ -1,8 +1,8 @@
 {
-  "homepage": "http://shraddhawakchaure.github.io/expense-meter",
+  "homepage": "https://shraddhawakchaure.github.io/expense-meter/",
   "name": "expense-meter",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
